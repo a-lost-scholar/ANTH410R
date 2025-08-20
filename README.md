@@ -1,3 +1,5 @@
+### *My Blog: [A link, to make navigation easier for everyone.](https://a-lost-scholar.neocities.org/)*
+---
 # FAIL LOG SUMMARIES
 
 | FAIL LOG    | SUMMARY     |
