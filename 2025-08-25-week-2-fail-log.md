@@ -12,6 +12,20 @@ My [second annotation](https://app.perusall.com/courses/fall-2025-anthropology-o
 My [third annotation](https://app.perusall.com/courses/fall-2025-anthropology-of-science-and-technology-anth-410r-950/will-it-ever-be-fair-week-2?annotationId=4yYu2ZkMxjPz9EeDY) was a question on how one would go about creating a data management plan (DMP). I'm particularly interested in this as someone who believes in open-source and accessible science but *also* someone who would like to have their research and data more organized than it is, since I can get rather messy in my frenzied work.
 
 ---
+## Research Tools
+### ResearchRabbit
+tell me why you added the publication(s) you did, and how it changed the collection's network.
+
+### Regular Search Engine (Startpage)
+txt
+
+### Google Scholar
+write briefly about what you found when looking on both types of search engines. What sorts of sources did Google Scholar find? What did the other search engine find. In what instances might another source be better?
+
+### Morris Library Resources
+txt
+
+---
 
 ## Comments/Concerns
 *Write when finished.*
