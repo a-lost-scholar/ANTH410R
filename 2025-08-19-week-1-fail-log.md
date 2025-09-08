@@ -19,6 +19,6 @@ Right now, my biggest concerns are about my [blog](https://a-lost-scholar.neocit
 However, I'm willing and want to try my best with it! I think having something like this could really help me in future academic work, as it is a really useful tool to maintain different versions of pieces I'm working on *and* to access documents on different computers. Which is really useful since I use both Windows and Linux, so not everything transfers smoothly from one OS to another.
 
 I think I might make use of the task list feature of markdown here as well, just to keep some of my failures that I want to try to fix managable. In this case, I think right now it would be:
-- [] Fix the dates on my Neocities blog.
-- [] Make sure the Archieve function works on my Neocities blog.
-- [] Fix the blog "written by" credit on my Neocities blog.
+- [x] Fix the dates on my Neocities blog.
+- [x] Make sure the Archieve function works on my Neocities blog.
+- [x] Fix the blog "written by" credit on my Neocities blog.
