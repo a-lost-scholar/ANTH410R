@@ -44,5 +44,5 @@ I detailed most of my thoughts on the prior two search engines and the Morris Li
 I feel like, overall, I'm getting the hang of Github and ResearchRabbit fairly well. I'm still having a lot of trouble with my blog (notably, getting my posts to show, so with that in mind here is a link to my [Week Two Post](https://a-lost-scholar.neocities.org/posts/2025-09-01-Week-2)), but I have some ideas to hopefully fix that. I also had some issues with time management this week, but I think I've gotten a hang on how to handle my classes so failing to turn things in on time doesn't happen again. This felt like a week of learning what some of my limits and my problems are, but I'm glad to take those and work with them going forward.
 
 This week, my main task list is as follows:
-- [ ] Switch Neocities blog (Zonelets) to Hashbloge.
-- [ ] Plan my work schedule ahead of time so I don't have more/as many time management issues.
+- ~~[ ] Switch Neocities blog (Zonelets) to Hashbloge.~~
+- [x] Plan my work schedule ahead of time so I don't have more/as many time management issues.
