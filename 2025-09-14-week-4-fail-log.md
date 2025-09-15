@@ -16,5 +16,7 @@ My [third annotation](https://app.perusall.com/courses/fall-2025-anthropology-of
 ## Comments/Concerns
 Overall, I think this week went well. I certainly would like to keep using TiddlyWiki, I think! It gives a similar feel as quickly writing on a sticky note and putting it somewhere, which is nice. That said, I really need to find a way to organize those "sticky notes". As much as I love clutter, I would like to be able to find something without me staring through a billion files!
 
+You can also download my TiddlyWiki to see my notes [here](https://github.com/a-lost-scholar/MyTiddlyWiki). I set up a Github for it so I could use it across computers, as the file will save to it and allow me to redownload it elsewhere (though warning that it's a bit messy in there)!
+
 This week, my main task list is as follows:
 - [ ] Organize TiddlyWiki.
