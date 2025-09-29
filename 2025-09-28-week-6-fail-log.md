@@ -19,7 +19,7 @@ My [third annotation](https://app.perusall.com/courses/fall-2025-anthropology-of
 ## Data Safety and Security Self-Assessment & Test DMP:
 From my work with the self-assessment, I can conclude I need to back up my data more often, likely needing to put on automatic backups so I don't forget to do so. I do, however, keep backups in a good few numbers of locations. I need to upload more of my data into something like GitHub to keep better track of older versions, as not all the programs I use allow you easy access to them. I do use different passwords and a password manager, but I pick & choose where I use two-factor because of not always having access to a phone for such. Most of my software is kept up-to-date automatically, but I could work on things like getting a better password manager.
 
-My test DMP can be found [here in this GitHub's files](-), where I based my DMP on my capstone project for this class.
+My test DMP can be found [here in this GitHub's files](https://github.com/a-lost-scholar/ANTH410R/blob/main/TEST_DMP_ANTH410R.pdf), where I based my DMP on my capstone project for this class.
 
 ---
 
